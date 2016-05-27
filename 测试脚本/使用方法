@@ -1,0 +1,4 @@
+1、安装python运行环境。
+2、配置monkeyrunner运行环境。
+3、命令使用：
+	monkeyrunner monkeyrunner.py（脚本文件） 0（客户端参数：家长端（0），教师端（1），园长端（2））
